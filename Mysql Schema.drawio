@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T16:09:36.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.3" etag="9einBynNIOs3sMlmZUMH" type="github"><diagram id="H-Dd7WlKDhxXR-rVQIW4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-16T16:59:20.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Y6Er94FQoYG73tKXoeEc" version="20.5.3" type="github">
+  <diagram id="H-Dd7WlKDhxXR-rVQIW4" name="Страница 1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;projects:&lt;br&gt;&lt;br&gt;id&lt;br&gt;name&lt;br&gt;url&lt;br&gt;token&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="35" width="119" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-2" value="employees:&lt;br&gt;&lt;br&gt;id&lt;br&gt;name&lt;br&gt;email&lt;br&gt;profession&lt;br&gt;category_id&lt;br&gt;project_id&lt;br&gt;password&lt;br&gt;token&lt;br&gt;available&lt;br&gt;avatar&lt;br&gt;price" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="270" y="35" width="130" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-5" value="categories:&lt;br&gt;&lt;br&gt;id&lt;br&gt;name&lt;br&gt;description&lt;br&gt;icon" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="130" y="35" width="130" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-8" value="services:&lt;br&gt;&lt;br&gt;id&lt;br&gt;name&lt;br&gt;image&lt;br&gt;description&lt;br&gt;price" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="9" y="385" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-11" value="parameters:&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22services%3A%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3Bid%26lt%3Bbr%26gt%3Bname%26lt%3Bbr%26gt%3Bimage%26lt%3Bbr%26gt%3Bdescription%26lt%3Bbr%26gt%3Bprice%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D17%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%229%22%20y%3D%22385%22%20width%3D%22110%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;id&lt;br&gt;name" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="140" y="385" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-12" value="contacts:&lt;br&gt;&lt;br&gt;id&lt;br&gt;name&lt;br&gt;icon" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="270" y="385" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-13" value="employee_service&lt;br&gt;&lt;br&gt;id&lt;br&gt;employee_id&lt;br&gt;service_id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="410" y="35" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-14" value="employee_parameter&lt;br&gt;&lt;br&gt;id&lt;br&gt;employee_id&lt;br&gt;parameter_id&lt;br&gt;value" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="560" y="35" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qNT37I8Oy0PcpBx6xDKz-15" value="employee_contact&lt;br&gt;&lt;br&gt;id&lt;br&gt;employee_id&lt;br&gt;contact_id&lt;br&gt;url" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="740" y="35" width="170" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
