@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T17:24:45.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.6.0" etag="9tXWAdld-MVJTz3alM-K" type="github"><diagram id="0ED9OaGm97SLamxBzpx6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-29T17:28:52.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.6.0" etag="lukhEhiIys7fX_sxdoCo" type="github">
+  <diagram id="Zrp-Jl8au6qhV0wSw1qX" name="Страница 1">
+    <mxGraphModel dx="1183" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qDpbp384xeRVFUgVQPIB-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Backend API&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="380" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qDpbp384xeRVFUgVQPIB-2" value="Frontend Dashboard&lt;br&gt;WEB, Android, IOS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qDpbp384xeRVFUgVQPIB-3" value="Frontend Site&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qDpbp384xeRVFUgVQPIB-4" value="API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDpbp384xeRVFUgVQPIB-5" value="Twillio" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDpbp384xeRVFUgVQPIB-6" value="web sockets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
